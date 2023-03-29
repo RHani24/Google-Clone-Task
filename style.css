@@ -1,0 +1,53 @@
+  /*navigation bar*/
+
+  #navbar2 {
+    color: blue;
+    float: right;
+    
+
+    
+  }
+
+  #navbar {
+    color: blue;    
+    float: left;
+
+  }
+
+/* h1 title*/
+
+h1 {
+    text-align: center;
+    padding: 100px;
+
+}
+
+.g {
+    color: rgb(32, 18, 236);
+}
+
+.o {
+    color: rgb(210, 27, 27);
+}
+
+.o2 {
+    color: yellow;
+}
+
+.l {
+    color: green;
+
+}
+
+.e {
+    color: rgb(210, 27, 27);
+}
+
+/* Search bar*/
+
+#searchbar {
+}
+
+#button1 {
+    
+}
